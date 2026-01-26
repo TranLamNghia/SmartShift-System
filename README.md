@@ -51,21 +51,21 @@ Hệ thống được phân tích và thiết kế chi tiết trước khi hiệ
 
 ### 1. Sơ đồ UseCase (UseCase Diagram)
 Thiết kế chức năng có trong hệ thông.
-![UseCase Diagram](docs/diagrams/UseCase.png)
+![UseCase Diagram](docs/diagrams/UseCase.jpg)
 
 ### 1. Kiến trúc tổng thể (C4 Model)
 Mô hình phân chia các Microservices và luồng dữ liệu chính.
-![Architecture Diagram](docs/diagrams/Architecture_C4.png)
+![Architecture Diagram](docs/diagrams/Architecture_C4.jpg)
 
 ### 2. Quy trình nghiệp vụ (Business Flowchart)
 Lưu đồ thuật toán xử lý logic đổi ca và duyệt tự động.
-![Flowchart](docs/diagrams/FlowchartProcess.png)
+![Flowchart](docs/diagrams/FlowchartProcess.jpg)
 
 ### 3. Thiết kế chi tiết (Sequence Diagrams)
 Các kịch bản tương tác chính của hệ thống:
-* **[Quy trình Đổi ca chỉ định (Direct Swap)](docs/diagrams/Seq_DirectSwap.png)**
-* **[Quy trình Đổi ca thông minh & Xử lý tranh chấp (Smart Swap)](docs/diagrams/Seq_SmartSwap.png)**
-* **[Quy trình Hủy yêu cầu & Quản trị rủi ro](docs/diagrams/Seq_CancelRequest.png)**
+* **[Quy trình Đổi ca chỉ định (Direct Swap)](docs/diagrams/Seq_DirectSwap.jpg)**
+* **[Quy trình Đổi ca thông minh & Xử lý tranh chấp (Smart Swap)](docs/diagrams/Seq_SmartSwap.jpg)**
+* **[Quy trình Hủy yêu cầu & Quản trị rủi ro](docs/diagrams/Seq_CancelRequest.jpg)**
 
 ---
 
