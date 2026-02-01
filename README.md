@@ -1,4 +1,4 @@
-### ReadMe sẽ thay đổi trong quá trình hoàn thiện project nhằm đảm bảo chính xác những gì được mô tả (21/01/2026)
+### ReadMe sẽ thay đổi trong quá trình hoàn thiện project nhằm đảm bảo chính xác những gì được mô tả (01/02/2026)
 
 # 📅 SmartShift System - Hệ Thống Xếp Ca Làm Việc Thông Minh
 
@@ -66,6 +66,10 @@ Các kịch bản tương tác chính của hệ thống:
 * **[Quy trình Đổi ca chỉ định (Direct Swap)](docs/diagrams/Seq_DirectSwap.jpg)**
 * **[Quy trình Đổi ca thông minh & Xử lý tranh chấp (Smart Swap)](docs/diagrams/Seq_SmartSwap.jpg)**
 * **[Quy trình Hủy yêu cầu & Quản trị rủi ro](docs/diagrams/Seq_CancelRequest.jpg)**
+
+### 4. Cấu trúc CSDL (ERD Diagram)
+Sơ đồ ERD mô tả cấu trúc dữ liệu chính, mối quan hệ giữa các bảng.
+![ERD Diagram](docs/diagrams/ERDDiagram.jpg)
 
 ---
 
